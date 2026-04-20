@@ -21,4 +21,4 @@ En este taller se tomo el proyecto `RestauranteElBuenSabor` y se mejoro sin camb
 
 ## Nota
 
-Se reviso que el programa compilara bien despues de los cambios.
+que estres me da java,no es lo mio
